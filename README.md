@@ -1,9 +1,5 @@
 https://medium.com/@elifsuaysel/building-an-event-driven-iot-system-in-python-9ae534621185
 
-Here’s a professional README draft for your project: 
-
----
-
 # EDP House System
 
 The **EDP House System** is an event-driven programming (EDP) implementation that simulates the interaction between various IoT devices in a smart home. This system demonstrates how different components—such as sensors and controllers—can work together using asynchronous event-based communication, ensuring real-time responsiveness and modularity.
